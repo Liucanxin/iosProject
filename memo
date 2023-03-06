@@ -1,0 +1,4 @@
+1、lyrebird配置：本地ip+端口4272
+
+2、appium配置
+WebDriverAgent：默认8100端口一般无法响应，可使用iproxy 8300 8100转到8300端口
